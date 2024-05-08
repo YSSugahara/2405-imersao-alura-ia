@@ -1,2 +1,11 @@
 # Imersão Inteligência Artificial 2ª Edição
 # Aula 3: Mergulhando no Gemini, a IA do Google
+
+# Desafio 1
+- Criar seu próprio áudio e realizar um prompt para análise pelo Google AI Studio
+
+# Desafio 2
+- Pesquise como colocar a imagem do Google AI Studio dentro do código de Pyhton no Google Colab
+
+# Desafio 3
+- Pegue os códigos que não contenham imagens do AI Studio e exporte para o Google Colab
