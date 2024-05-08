@@ -2,7 +2,7 @@
 # Aula 2: Mergulhando no Gemini, a IA do Google
 
 # Desafio 1
-Use a técnica de Few-shot Chain-of-Thought para um problema da sua vida real
+- Use a técnica de Few-shot Chain-of-Thought para um problema da sua vida real
 
 # Desafio 2
-Escolha 10 textos do seu site de notícias preferido. Apresente para o Google AI Studio o padrão dos títulos e das suas respectivas notícias e quando chegar no décimo primeiro texto, apresente somente a notícia e peça para ele gerar um título. Veja se existe alguma técnica ou padrão
+- Escolha 10 textos do seu site de notícias preferido. Apresente para o Google AI Studio o padrão dos títulos e das suas respectivas notícias e quando chegar no décimo primeiro texto, apresente somente a notícia e peça para ele gerar um título. Veja se existe alguma técnica ou padrão
