@@ -1,5 +1,5 @@
 # Imersão Inteligência Artificial 2ª Edição
-# Período: 03/05/2024 - 13/05/2024
+## Período: 03/05/2024 - 13/05/2024
 
 Parabéns! Você acaba de dar o primeiro passo para um mergulho nas ferramentas de Inteligência Artificial que vão impulsionar o seu crescimento.
 
